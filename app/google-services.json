@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "898824448340",
+    "firebase_url": "https://fir-94b0a.firebaseio.com",
+    "project_id": "fir-94b0a",
+    "storage_bucket": "fir-94b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898824448340:android:5b1484778a49c511",
+        "android_client_info": {
+          "package_name": "com.quwaysim.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898824448340-h1rqrhdoqa11e4k8he59mu1j00iesa5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQA14c7eu_w-3dgkVzhlQpYFgccUnEhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898824448340-h1rqrhdoqa11e4k8he59mu1j00iesa5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898824448340:android:48938d1dbed14031",
+        "android_client_info": {
+          "package_name": "com.quwaysim.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898824448340-i9qp3adtm7iphq13bp0bnh48otgetpg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quwaysim.travelmantics",
+            "certificate_hash": "1f37ec3d34c72d6a5cee32b1982b83a8fd101985"
+          }
+        },
+        {
+          "client_id": "898824448340-h1rqrhdoqa11e4k8he59mu1j00iesa5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQA14c7eu_w-3dgkVzhlQpYFgccUnEhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898824448340-h1rqrhdoqa11e4k8he59mu1j00iesa5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

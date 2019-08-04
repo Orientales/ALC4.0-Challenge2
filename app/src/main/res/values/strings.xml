@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="sign_in_txt">\t Sign in with email</string>
+    <string name="sign_in_with_google">\t Sign in with Google</string>
+    <string name="password">Password</string>
+    <string name="first_last_name"><![CDATA[First & Last Name]]></string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="save">SAVE</string>
+    <string name="destination">Destination</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="select_image">Select Image</string>
+    <string name="new_travel_deal">New Travel Deal</string>
+</resources>
